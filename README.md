@@ -56,6 +56,7 @@
 - [HyperLend](https://x.com/hyperlendx)
 - [VisionBoard Vault](https://vault.visionboardfinance.com/) - HyperEVM-native ERC-4626 vault and VBV share-token layer. [GeckoTerminal](https://www.geckoterminal.com/hyperevm/pools/0x8d878c31d03a31d60464d08bd6279e7205853115)
 - [Dexly](https://dexly.trade/) - Self-custodial mobile app (iOS/Android) for Hyperliquid: perps, spot, tokenized stocks, prediction markets, and copy trading.
+- [Floatout](https://floatout.xyz/) - Launch a branded, non-custodial Hyperliquid trading site with perps and HIP-4 prediction markets, no code needed. The site earns builder-code fees.
 
 
 ## Contribute
